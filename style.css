@@ -18,3 +18,17 @@ h2 {
 	color: navy;
 	margin: auto;
 }
+
+a {
+	color: black;
+	font-family: futura;
+	font-size: 15px;
+}
+
+h6 {
+	font-family: futura;
+	font-size: 15px;
+	color: navy;
+	margin: auto;
+	font-style: italic;
+}
